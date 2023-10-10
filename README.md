@@ -24,18 +24,17 @@ This is GitHub account for ILCOIN community where we share and develop projects 
 
 ## Smart Contract Usage Guide
 
-### 1. Installation Setup
+### Installation Setup
 
 First, ensure you have set up our blockchain development environment by following these steps:
 
 ```bash
-git clone [project_repository_link]
+git clone [project_repository_link] 
 cd [project_directory_name]
-npm install
-### 2. Deploying Smart Contracts
+npm install (optional)
 
+### 1. Deploying Smart Contracts
 Your best choice is to use an IDE workspace platform. You can also use CLI for PC; however, it may affect your device as some collections are not authenticated.
 
-### 3. Interacting with Smart Contracts
-
+### 2. Interacting with Smart Contracts
 You can interact with the smart contract either through a command-line interface or a web application. Use the functions exposed through the smart contract's API to perform data-related tasks.
